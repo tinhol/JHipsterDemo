@@ -1,0 +1,5 @@
+entity Order {
+	number String
+    description String
+    total Decimal
+}
